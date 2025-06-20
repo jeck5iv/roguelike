@@ -1,0 +1,9 @@
+width: 10
+height: 10
+player_start:
+  x: 1
+  y: 1
+mobs:
+  - x: 3
+    y: 3
+    type: basic
